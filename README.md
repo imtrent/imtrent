@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ian Trent, a Software Developer focused on building high-quality, thoughtful, and intuitive web applications.
+I'm Ian Trent, a Software Engineer focused on building high-quality, thoughtful, and intuitive web applications.
 
 💼 &nbsp; Currently working at [@SFP](https://sfp.net), a web and media production company.
 

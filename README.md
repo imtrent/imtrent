@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ian Trent, a Software Engineer focused on building high-quality, thoughtful, and intuitive web applications.
+My name is Ian Trent. I’m a driven, forward-thinking Software Engineer who’s enthusiastic about building SaaS products.
 
 💼 &nbsp; Currently working at [@Trava](https://travasecurity.com)
 

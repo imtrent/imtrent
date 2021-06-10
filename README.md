@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ian Trent. I’m a driven, forward-thinking Software Engineer who’s enthusiastic about building SaaS products.
+My name is Ian Trent. I’m a forward-thinking Software Engineer who’s enthusiastic about building SaaS products.
 
 💼 &nbsp; Currently working at [@Trava](https://travasecurity.com)
 
